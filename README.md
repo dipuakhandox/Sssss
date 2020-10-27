@@ -7,6 +7,11 @@ URL Shortener created using:
 - ejs(for views) 
 - shortid package for shortening URLs
 
-![Display]("https://ibb.co/5TD18f7")
+## Functionalities:
+- Generate short URLs
+- Redirect to the webpage upon clicking the short URLs
+- increment clicks everytime an URL is visited
 
-![Reference](https://www.youtube.com/watch?v=SLpUKAGnm-g)
+![Display](https://i.ibb.co/nr2wc5W/Screenshot-113.png)
+
+[Reference](https://www.youtube.com/watch?v=SLpUKAGnm-g)
