@@ -10,7 +10,7 @@ URL Shortener created using:
 ## Functionalities:
 - Generate short URLs
 - Redirect to the webpage upon clicking the short URLs
-- increment clicks everytime an URL is visited
+- Increment clicks everytime an URL is visited
 
 ![Display](https://i.ibb.co/nr2wc5W/Screenshot-113.png)
 
